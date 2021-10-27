@@ -1,0 +1,94 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.navbar-brand
+{
+    font-size: 2rem;
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+.navbar-brand:hover
+{
+    color: black;
+}
+.nav-link
+{
+    margin-right: 10;
+    margin-left: 10px;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+}
+.nav-link:hover
+{
+    color: black;
+}
+
+.search
+{
+    height: 40px;
+    width: 80%;
+    border: 60px;
+    outline: none;
+    margin-right: -35px;
+    border-radius: 60px;
+    font-family: 'Rubik', sans-serif;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.btn0
+{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: rgb(0, 0, 0);
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+    
+}
+
+.main
+{
+    background: url(./img/Young\ baba.png);
+    background-size: cover;
+    height: 20vh;
+    background-position: 50%;
+    width: 100%;
+}
+
+.main h1
+{
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.btn1
+{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline-color: none;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+
+.img-luid
+{
+    height: 20rem;
+    width: auto;
+}
+
+h1 
+{
+    font-weight: 700;
+}
